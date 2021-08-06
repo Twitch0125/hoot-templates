@@ -1,0 +1,5 @@
+# Startup
+
+```
+npm run build
+```
